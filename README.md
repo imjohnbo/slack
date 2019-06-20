@@ -34,7 +34,7 @@ After the app is installed, and once you've added the GitHub integration to the 
 
 <p align="center"><img width="550" alt="unfurl_convo" src="https://user-images.githubusercontent.com/3877742/36522313-c0cdbd08-1750-11e8-8dbe-b5a3a2f93549.png"></p>
 
-### Subscribing and Unsubscribing
+### Subscribing and Unsubscribingz
 
 At this point, your Slack and GitHub user accounts are not linked. To link the two accounts, authenticate to GitHub using a `/github` slash command, `/github signin`.
 
