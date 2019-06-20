@@ -12,7 +12,7 @@ The GitHub integration for Slack gives you and your teams full visibility into y
   - [Installation](#installation)
   - [Authorization](#authorization)
 - Getting Started
-  - [Repository Activity](#repository-activity)
+  - [Repository Activity](#repository-activity)z
   - [Link previews](#link-previews)
   - [Take action](#take-action)
   - [Configuration](#configuration)
